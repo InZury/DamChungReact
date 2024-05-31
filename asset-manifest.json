@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InZury/DamChung.io/DamChungReact/static/css/main.e6c13ad2.css",
+    "main.js": "/InZury/DamChung.io/DamChungReact/static/js/main.b3e235ad.js",
+    "static/js/453.e5d8485d.chunk.js": "/InZury/DamChung.io/DamChungReact/static/js/453.e5d8485d.chunk.js",
+    "index.html": "/InZury/DamChung.io/DamChungReact/index.html",
+    "main.e6c13ad2.css.map": "/InZury/DamChung.io/DamChungReact/static/css/main.e6c13ad2.css.map",
+    "main.b3e235ad.js.map": "/InZury/DamChung.io/DamChungReact/static/js/main.b3e235ad.js.map",
+    "453.e5d8485d.chunk.js.map": "/InZury/DamChung.io/DamChungReact/static/js/453.e5d8485d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b3e235ad.js"
+  ]
+}
